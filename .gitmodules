@@ -1,0 +1,12 @@
+[submodule "twitch-api"]
+	path = twitch-api
+	url = https://github.com/fabiohbarbosa/twitch-api.git
+[submodule "twitch-website"]
+	path = twitch-website
+	url = https://github.com/fabiohbarbosa/twitch-website.git
+[submodule "twitch-nginx"]
+	path = twitch-nginx
+	url = https://github.com/fabiohbarbosa/twitch-nginx.git
+[submodule "twitch-e2e-test"]
+	path = twitch-e2e-test
+	url = https://github.com/fabiohbarbosa/twitch-e2e-test.git
